@@ -25,7 +25,7 @@ This repository contains the code/notebooks to reproduce the analysis, feature e
 
 ## Results
 
-All three approaches pass the **Kupiec test at 5% significance** on the test set for **α ∈ {1%, 5%, 10%}**, with overall performance favoring **HAR-RV** in this project’s composite ranking. For more, please check the report : [Read the report](report.pdf)
+All three approaches pass the **Kupiec test at 5% significance** on the test set for **α ∈ {1%, 5%, 10%}**, with overall performance favoring **HAR-RV** in this project’s composite ranking. For more information, please check the report : [Read the report](report.pdf)
 
 
 
